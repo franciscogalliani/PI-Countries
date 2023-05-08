@@ -7,7 +7,7 @@ Proyecto individual de HENRY
  
 - [x] Crear base de datos
 - [x] Crear los modelos
-- [ ] Crear las relaciones
+- [x] Crear las relaciones
 
 ### Back-End
 
