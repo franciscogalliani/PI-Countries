@@ -5,7 +5,7 @@ Proyecto individual de HENRY
 
 ### Base de datos
  
-- [ ] Crear base de datos
+- [x] Crear base de datos
 - [ ] Crear los modelos
 - [ ] Crear las relaciones
 
