@@ -11,25 +11,24 @@ Proyecto individual de HENRY
 
 ### Back-End
 
-- [ ] Guardar los datos en la BD
-- [ ] Crear la ruta GET countries
-- [ ] Crear la ruta GET countries por ID
-- [ ] Crear la ruta GET countries por Query
-- [ ] Crear la ruta POST activities
-- [ ] Crear la ruta GET activities
-- [ ] (Extra) Crear la ruta GET activities por Query
+- [x] Guardar los datos en la BD
+- [x] Crear la ruta GET countries
+- [x] Crear la ruta GET countries por ID
+- [x] Crear la ruta GET countries por Query
+- [x] Crear la ruta POST activities
+- [x] Crear la ruta GET activities
 
 ### Front-End
 
-- [ ] Crear la Landing Page
-- [ ] Crear la Home Page
-- [ ] Crear la Search Bar
-- [ ] Crear las Cards
-- [ ] Crear filtros
-- [ ] Crear ordenamiento
-- [ ] Agregar paginado
-- [ ] Crear la Detail Page
-- [ ] Crear la Form Page
+- [x] Crear la Landing Page
+- [x] Crear la Home Page
+- [x] Crear la Search Bar
+- [x] Crear las Cards
+- [x] Crear filtros
+- [x] Crear ordenamiento
+- [x] Agregar paginado
+- [x] Crear la Detail Page
+- [x] Crear la Form Page
 
 ### Testing
 
